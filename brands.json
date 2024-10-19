@@ -1,0 +1,33 @@
+[
+    {
+      "name": "TechWorld",
+      "slug": "techworld",
+      "description": "Innovative electronics and gadgets.",
+      "isActive": true
+    },
+    {
+      "name": "HomeMaster",
+      "slug": "homemaster",
+      "description": "Reliable home appliances.",
+      "isActive": true
+    },
+    {
+      "name": "GamerPro",
+      "slug": "gamerpro",
+      "description": "The ultimate gaming gear.",
+      "isActive": true
+    },
+    {
+      "name": "ClickCapture",
+      "slug": "clickcapture",
+      "description": "Professional cameras and photography equipment.",
+      "isActive": true
+    },
+    {
+      "name": "FitLife",
+      "slug": "fitlife",
+      "description": "Fitness products for a healthy lifestyle.",
+      "isActive": true
+    }
+  ]
+  

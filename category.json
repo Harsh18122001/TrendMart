@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Electronics",
+      "slug": "electronics",
+      "description": "Devices like phones, laptops, and accessories.",
+      "isActive": true,
+      "products": ["64e32b7813bffb1c52e1a1f2", "64e32b7813bffb1c52e1a1f3"]
+    },
+    {
+      "name": "Home Appliances",
+      "slug": "home-appliances",
+      "description": "Appliances for everyday home use.",
+      "isActive": true,
+      "products": ["64e32b7813bffb1c52e1a1f4", "64e32b7813bffb1c52e1a1f5"]
+    },
+    {
+      "name": "Gaming",
+      "slug": "gaming",
+      "description": "Consoles, gaming PCs, and accessories.",
+      "isActive": true,
+      "products": ["64e32b7813bffb1c52e1a1f6", "64e32b7813bffb1c52e1a1f7"]
+    },
+    {
+      "name": "Photography",
+      "slug": "photography",
+      "description": "Cameras, drones, and accessories.",
+      "isActive": true,
+      "products": ["64e32b7813bffb1c52e1a1f8", "64e32b7813bffb1c52e1a1f9"]
+    },
+    {
+      "name": "Fitness",
+      "slug": "fitness",
+      "description": "Fitness and health-related products.",
+      "isActive": true,
+      "products": ["64e32b7813bffb1c52e1a1f10", "64e32b7813bffb1c52e1a1f11"]
+    }
+  ]
+  
